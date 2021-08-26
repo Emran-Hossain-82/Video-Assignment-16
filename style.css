@@ -1,0 +1,77 @@
+ /* Header Sections */
+ .header{
+     background: #0984e3;
+ }
+ .header img{
+     width: 100px;
+     height: auto;
+ }
+ .primary-menu{}
+ .primary-menu ul{
+    text-align: right;
+    margin: 0;
+ }
+ .primary-menu ul li {
+    display: inline-block;
+    margin-left: -4px;
+    
+}
+.primary-menu ul li a {
+    display: inline-block;
+    color: white;
+    padding: 0 20px;
+    line-height: 65px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ .primary-menu ul li a:hover{
+     color:#74b9ff ;
+   
+}
+
+/* bannar-section */
+
+.banner{
+    background-image: url(./img/glass-design-house-style-wallpaper-preview.jpg);
+    padding: 200px 0;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner-text{
+    text-align: center;
+  
+    
+}
+.banner-text h2{
+   width: 400px;
+   display: inline-block;
+   margin: auto;
+  
+}
+.banner-text h3{
+    color: #ddd;
+    width: 300px;
+    margin: auto;
+    
+}
+
+/* services section */
+
+.service-section{
+    box-shadow: 0px 0px 12px black;
+}
+.service-section h2{
+    text-shadow: 2px 2px 2px red;
+}
+.service-section{
+    background-color: #b9c0f2;
+}
+.service-section img{
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px white;
+}
+
+
